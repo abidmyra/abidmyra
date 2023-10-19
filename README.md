@@ -1,18 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abid Humayraa</h1>
+<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-I am abid humayraa and currently studying in Universiti Teknologi Malaysia (UTM)
+- 🌱 I’m currently learning **software engineering**
 
-<!--
-**abidmyra/abidmyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Technology and Information System in Software Engineering.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/abidhumxyraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abidhumxyraa" height="30" width="40" /></a>
+</p>
