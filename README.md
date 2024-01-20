@@ -6,7 +6,7 @@ FIRST YEAR UTM STUDENT
 
 A passionate Software Engineering Student | Experienced in C++ and still learning | Graduating in 2027
 
-*   🌍  I'm based in Malaysia
+*   🌍  I'm based in Johor, Malaysia
 *   🖥️  See my portfolio at [github/abidmyra](http://github.com/abidmyra)
 *   ✉️  You can contact me at [abidhumayraa@graduate.utm.my](mailto:abidhumayraa@graduate.utm.my)
 *   🧠  I'm learning computer science (software engineering)
