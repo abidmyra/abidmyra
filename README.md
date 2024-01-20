@@ -31,8 +31,21 @@ A passionate Software Engineering Student | Experienced in C++ and still learnin
 - Sekolah Rendah Islam Hira' (2011 - 2016)
    <p> UPSR 6A </p>
    
+<h1 > Positions I Held </h1>
+
+- 2014-2016: Primary School Prefect
+- 2017-2018: Secondary School Student Representative Council
+- 2018-2019: Secondary School Student Representative Council
+- 2019-2020: Secondary School Prefect
+- 2020-2021: Secondary School Prefect
+
+<h1 > Soft Skills </h1>
+
+- Leadership
+- Teamwork
+- Adaptability
+   
 <h1 > Awards and Achievement </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
 <p>🏆 Certificate in 2023 SDS BIOLOGY SYMPHONY COMPETITION  </p>
 <p>🏆 Certificate in 2023 INNOVATIVE PDP CHEMISTRY COMPETITION </p>
